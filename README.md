@@ -10,7 +10,7 @@ Key factors such as age, games played, games finished, intentional bases on ball
 
 The best model was identified based on its minimal error. This project empowers baseball teams with a reliable tool for predicting pitcher performance, enhancing their decision-making process in selecting the most impactful players for the upcoming season.
 
-Check the presentation for more the complete walkthrough.
+Check the presentation for the complete walkthrough of the project.
 
-Dataset:
-Code:
+Dataset: https://www.kaggle.com/datasets/vivovinco/2022-mlb-player-stats </br>
+Code: https://github.com/SwaroopMeher/Baseball-pitcher-performance-predictor/blob/main/Baseball%20pitcher%20perf%20predictor/mini-project-solution.R
