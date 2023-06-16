@@ -8,4 +8,9 @@ The project focused on relevant features, eliminating irrelevant columns and red
 
 Key factors such as age, games played, games finished, intentional bases on balls, batters faced, shutouts, saves, hits allowed, and runs allowed emerged as crucial indicators in predicting pitcher performance. Utilizing a second-order statistical model with these features, teams can make informed decisions when acquiring pitchers. Additionally, the model's predictions lie within a certain range with 95% confidence, providing a valuable range for evaluation.
 
-Through rigorous training and testing on the test set, the best model was identified based on its minimal error. This project empowers baseball teams with a reliable tool for predicting pitcher performance, enhancing their decision-making process in selecting the most impactful players for the upcoming season.
+The best model was identified based on its minimal error. This project empowers baseball teams with a reliable tool for predicting pitcher performance, enhancing their decision-making process in selecting the most impactful players for the upcoming season.
+
+Check the presentation for more the complete walkthrough.
+
+Dataset:
+Code:
